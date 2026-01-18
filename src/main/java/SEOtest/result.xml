@@ -1,0 +1,7 @@
+<suite name="Seo test" verbose="1">
+<test name="perform Broken Valid Links Test and Domain Test and Anchoe tag test">
+<classes>
+<class name="SEOtest.seotest"/>
+</classes>
+</test>
+</suite>
